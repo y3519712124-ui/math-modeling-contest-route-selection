@@ -1,0 +1,4 @@
+interface:
+  display_name: "Math Modeling Contest Route Selection"
+  short_description: "Compare contest topics, per-question modeling routes, feasibility, refutation, and paper competitiveness."
+  default_prompt: "Use $math-modeling-contest-route-selection to compare CUMCM A/B/C, MCM, or ICM problem choices, distill per-subquestion modeling logic, and select the strongest feasible route."
