@@ -34,7 +34,8 @@ math-modeling-contest-route-selection/
 ├── agents/
 │   └── openai.yaml
 ├── assets/
-│   └── github-promo-banner.svg
+│   ├── github-promo-banner.svg
+│   └── support-wechat-pay.jpg
 ├── references/
 │   ├── award-method-distillation.md
 │   ├── award-question-decomposition.md
@@ -94,6 +95,16 @@ python math-modeling-contest-route-selection/scripts/score_topics.py input.json 
 3. **反驳内置**：每个强结论都必须写出什么情况会推翻它。
 4. **工程真实**：考虑队伍能力、代码时间、数据清洗和求解器风险。
 5. **避免同质化**：高级模型只有在改善可测输出、验证或论文叙事时才有价值。
+
+## 支持与投喂
+
+如果这个 skill 帮你在建模选题、路线比较或论文方案审计里少走了一点弯路，欢迎给主播投喂一个馒头，支持后续继续蒸馏更多数学建模方法、赛题路线和高质量案例。
+
+你的资助会用于维护这个技能包、补充参考材料、优化评分脚本，以及继续打磨“AI 不盲选、方案可反驳、路线能落地”的建模工作流。感谢每一份支持，也欢迎提 issue、交 PR、分享真实使用反馈。
+
+<p align="center">
+  <img src="math-modeling-contest-route-selection/assets/support-wechat-pay.jpg" alt="微信支付支持二维码" width="360">
+</p>
 
 ## License
 
