@@ -1,6 +1,6 @@
-# 数学建模竞赛路线选择技能
+# Math Modeling Contest Route Selection Skill
 
-![数学建模竞赛路线选择技能](math-modeling-contest-route-selection/assets/github-promo-banner.svg)
+![Math Modeling Contest Route Selection Skill](math-modeling-contest-route-selection/assets/github-promo-banner.svg)
 
 `math-modeling-contest-route-selection` 是一个面向全国大学生数学建模竞赛、美赛 MCM/ICM 以及同类建模比赛的 Codex/OpenAI Skill。它的目标不是让 AI 机械地给出“选 A/B/C”，而是强制比较每个题目的建模路线、工程可行性、验证方式、反驳条件和论文竞争力。
 

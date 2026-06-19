@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
-  <title id="title">数学建模竞赛路线选择宣传图</title>
-  <desc id="desc">一张带有五根动态柱子的中文 GitHub 宣传横幅，用于展示数学建模竞赛选题、路线、可行性、验证和反驳。</desc>
+  <title id="title">Math Modeling Contest Route Selection Skill</title>
+  <desc id="desc">一张 GitHub 宣传横幅，主标题使用英文，其余中文展示数学建模竞赛选题、路线、可行性、验证和反驳。</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#f8fafc"/>
@@ -45,8 +45,8 @@
     <style>
       .font { font-family: "Microsoft YaHei", "PingFang SC", "Noto Sans CJK SC", "Source Han Sans SC", "Segoe UI", Arial, sans-serif; letter-spacing: 0; }
       .eyebrow { font-size: 18px; font-weight: 800; fill: #0f766e; }
-      .title { font-size: 64px; font-weight: 900; fill: url(#titleInk); }
-      .subtitle { font-size: 24px; font-weight: 700; fill: #475569; }
+      .title { font-size: 50px; font-weight: 900; fill: url(#titleInk); }
+      .subtitle { font-size: 22px; font-weight: 700; fill: #475569; }
       .caption { font-size: 16px; font-weight: 750; fill: #64748b; }
       .pill { font-size: 17px; font-weight: 850; fill: #0f172a; }
       .panelTitle { font-size: 26px; font-weight: 900; fill: #0f172a; }
@@ -66,13 +66,14 @@
 
   <g class="font">
     <text x="78" y="96" class="eyebrow">MATH MODELING CONTEST ROUTE SELECTION</text>
-    <text x="78" y="178" class="title">数学建模竞赛</text>
-    <text x="78" y="252" class="title">路线选择技能</text>
-    <text x="80" y="313" class="subtitle">让 AI 不再盲目选题</text>
-    <text x="80" y="350" class="subtitle">用可审计路线证明建模方案优越性</text>
+    <text x="78" y="166" class="title">Math Modeling</text>
+    <text x="78" y="226" class="title">Contest Route</text>
+    <text x="78" y="286" class="title">Selection Skill</text>
+    <text x="80" y="340" class="subtitle">让 AI 不再盲目选题</text>
+    <text x="80" y="374" class="subtitle">用可审计路线证明建模方案优越性</text>
   </g>
 
-  <g class="font" transform="translate(80 390)">
+  <g class="font" transform="translate(80 408)">
     <rect x="0" y="0" width="142" height="42" rx="21" fill="#ffffff" opacity="0.84" stroke="#bae6fd"/>
     <text x="29" y="28" class="pill">选题对比</text>
     <rect x="162" y="0" width="142" height="42" rx="21" fill="#ffffff" opacity="0.84" stroke="#bbf7d0"/>
